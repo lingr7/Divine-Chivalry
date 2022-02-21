@@ -1,5 +1,3 @@
-# Divine Chivalry
-
-为了这个花了两天的时间，总之最后复习时间不够了，中间也插入了数学建模论文写作的事。
-
-忙不过来了。
+# 神州奇侠正传
+使用马健的PageByPage软件，可以准确识别出章节目录信息。
+https://pypi.org/project/txt2ebook/ 也可参考使用。
